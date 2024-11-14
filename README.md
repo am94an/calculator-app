@@ -3,6 +3,11 @@
 
 A modern web-based calculator application built using React. This application replicates the functionality of the Casio fx-82MS calculator, providing advanced mathematical operations, including basic arithmetic, trigonometry, logarithms, and more.
 
+
+## Screenshots
+
+![calculator Screenshot](./1.png)
+
 ## Features
 
 - **Basic arithmetic operations**: Addition, subtraction, multiplication, division.
