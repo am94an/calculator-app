@@ -6,7 +6,7 @@ A modern web-based calculator application built using React. This application re
 
 ## Screenshots
 
-![calculator Screenshot](./1.png)
+![calculator Screenshot](./1.PNG)
 
 ## Features
 
